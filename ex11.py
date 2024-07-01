@@ -1,5 +1,5 @@
-import cv2
-import dlib
+import cv2            #pip install opencv-python
+import dlib           #conda install cmake//conda install dlib
 
 # dlib의 얼굴 감지기와 랜드마크 예측기 로드
 detector = dlib.get_frontal_face_detector()
