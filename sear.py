@@ -23,6 +23,7 @@ corpus = [
     "아침에 일어나기 너무 힘들다.",
     "자꾸 한번씩 졸고있다.",
     "집 갈때 몬스터 챙겨가야겠다.",
+    "앞으로 잘 부탁드립니다"
     "집가서 자고싶다.",
 ]
 # Use "convert_to_tensor=True" to keep the tensors on GPU (if available)
