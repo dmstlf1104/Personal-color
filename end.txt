@@ -1,0 +1,15 @@
+demo -> 마스크 된상태의 얼굴을 보여줌
+main_demo -> 마스크 안된 상태의 얼굴을 보여줌
+db_test -> demo버전 파일을 가져다가 db를 연결해놓음
+img_test -> db_test 파일을 가져다가 image가 나오도록 추가(db에도)
+all_test -> image_test 파일을 가져다가 두영이파일(skinsensefromAI)파일을 추가해서
+피부 분석 결과, 추천 제품까지 나오도록 추가 + db에 평균 rgb값 지움
+main_test -> main 파일에서 수정된 부분 테스트 하는 용도
+api_test.py -> 이미지 처리와 같은 무거운 작업은 FastAPI 백엔드에서 처리 (백엔드)
+test.py ->  Streamlit이 프론트엔드 인터페이스를 제공 (프론트엔드)
+final_db.py -> 종혁이코드 최종완성본 + db 연동 + img까지 나오게 하는 코드 
++ 마스크 된 이미지랑 안된 이미지 둘다 출력
+
+test3.py -> 성별에 따른 화장품 추천 성공
+
+Ultimate.py -> test3.py의 최종 완성본 + 모든코드의 수정본
