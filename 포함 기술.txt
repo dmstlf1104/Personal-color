@@ -1,0 +1,23 @@
+프로그래밍 언어 및 라이브러리
+Python: 데이터 분석, 이미지 처리, 머신러닝 및 웹 애플리케이션 개발을 위한 범용 프로그래밍 언어.
+이미지 처리
+OpenCV (cv2): 컴퓨터 비전 및 이미지 처리 라이브러리.
+dlib: 얼굴 인식 및 이미지 처리 라이브러리.
+PIL (Pillow): Python Imaging Library, 이미지 처리 및 조작 도구.
+데이터 처리 및 분석
+NumPy (np): 수치 계산을 위한 핵심 라이브러리.
+pandas: 데이터 조작 및 분석 도구.
+머신러닝
+scikit-learn: 머신러닝 라이브러리, 특히 여기서는 RandomForestClassifier와 StandardScaler를 사용.
+RandomForestClassifier: 랜덤 포레스트 분류 알고리즘.
+StandardScaler: 데이터 표준화 도구.
+웹 애플리케이션
+streamlit (st): 데이터 애플리케이션을 위한 웹 프레임워크.
+데이터베이스
+sqlite3: SQLite 데이터베이스 관리 시스템.
+기타 유틸리티
+datetime: 날짜와 시간 조작을 위한 모듈.
+io: 입력과 출력을 위한 모듈.
+base64: 바이너리 데이터를 텍스트로 인코딩하는 모듈.
+collections.Counter: 요소의 빈도를 계산하는 도구.
+random: 난수 생성을 위한 모듈.
